@@ -5,9 +5,10 @@
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
 
+![](https://github.com/ArshiaRx/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/ArshiaRx/github-stats/blob/master/generated/overview.svg)
 </a>
-![](https://github.com/ArshiaRx/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/ArshiaRx/github-stats/blob/master/generated/overview.svg)
+
 
 Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
